@@ -81,6 +81,7 @@ UPDATE_PACKAGE "viking" "VIKINGYFY/packages" "main" "" "gecoosac luci-app-timewo
 UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 UPDATE_PACKAGE "open-app-filter" "destan19/OpenAppFilter" "master" "" "luci-app-appfilter oaf"
 UPDATE_PACKAGE "parentcontrol" "sirpdboy/luci-app-parentcontrol" "main"
+UPDATE_PACKAGE "device-qos" "JCrun/luci-app-device-qos" "main"
 
 #更新软件包版本
 UPDATE_VERSION() {
