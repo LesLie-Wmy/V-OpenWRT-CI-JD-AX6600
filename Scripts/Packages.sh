@@ -82,6 +82,9 @@ UPDATE_PACKAGE "vnt" "lmq8267/luci-app-vnt" "main"
 UPDATE_PACKAGE "open-app-filter" "destan19/OpenAppFilter" "master" "" "luci-app-appfilter oaf"
 UPDATE_PACKAGE "parentcontrol" "sirpdboy/luci-app-parentcontrol" "main"
 UPDATE_PACKAGE "device-qos" "JCrun/luci-app-device-qos" "main"
+UPDATE_PACKAGE "bandix-lib" "timsaya/openwrt-bandix" "main"
+UPDATE_PACKAGE "bandix-app" "timsaya/luci-app-bandix" "main"
+
 
 #更新软件包版本
 UPDATE_VERSION() {
